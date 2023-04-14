@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+
+.list-items {
+  @apply text-black justify-center mt-[10px] hover:underline mb-[50px];
+}
+.footer-items{
+  @apply text-gray-400;
+}
+
+@tailwind utilities;
+
+
